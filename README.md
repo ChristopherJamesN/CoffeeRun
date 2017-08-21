@@ -1,2 +1,2 @@
 # CoffeeRun
-Practice web application created using primarily JavaScript
+Web application for keeping track of coffee orders.
